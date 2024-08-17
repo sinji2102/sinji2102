@@ -35,7 +35,7 @@
   <tr>
     <td class="tg-0lax">NOW SOPT 34th</td>
     <td class="tg-0lax">2024.03 ~ 2024.07</td>
-    <td class="tg-0lax">대학생 연합 IT 벤처 창업 연합 SOPT 32th Web Frontend</td>
+    <td class="tg-0lax">대학생 연합 IT 벤처 창업 동아리 SOPT 32th Web Frontend</td>
   </tr>
  <tr>
     <td class="tg-0lax">GDSC Core</td>
@@ -69,7 +69,7 @@
     <td class="tg-nrix">오픈소스 매니지먼트 플랫폼 <span style="font-weight:bold">Open-Set-GO</span> FE 개발</td>
   </tr>
   <tr>
-    <td class="tg-baqh">2024.05 ~ 2023.05</td>
+    <td class="tg-baqh">2024.05 ~ 2024.05</td>
     <td class="tg-0lax">성향 퀴즈 문답을 통해 상대방을 알아가는 서비스 <span style="font-weight:bold">ToZero</span> FE 개발</td>
   </tr>
   <tr>
