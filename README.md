@@ -2,7 +2,86 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=e19898&height=180&text=Yun%20Sinji&animation=&fontColor=e4d2d2&fontSize=70" />
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Experience & Social Activity </h2> 
+    <div style="margin: 0 auto; text-align: center;" align= "center">
+          </div>
+        <table class="tg"><thead>
+  <tr>
+    <th class="tg-c3ow">소속 및 단체</th>
+    <th class="tg-c3ow">활동 기간</th>
+    <th class="tg-c3ow">내용</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">국민대학교</td>
+    <td class="tg-c3ow">2022.03 ~</td>
+    <td class="tg-c3ow">국민대학교 소프트웨어학부 재학</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">KOSS</td>
+    <td class="tg-0pky">2022.03 ~</td>
+    <td class="tg-0pky">오픈소스 소프트웨어 학회 KOSS 운영진 및 홍보부장</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">패치 (PATCH)</td>
+    <td class="tg-nrix">2022.03 ~ 2022.11</td>
+    <td class="tg-0pky">국민대학교 소프트웨어융합대학 제6대 학생회 기획부</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">(주) 콘캣</td>
+    <td class="tg-0lax">2022.12 ~ 2023.06</td>
+    <td class="tg-baqh">FrontEnd 인턴 개발자</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">NOW SOPT 34th</td>
+    <td class="tg-0lax">2024.03 ~ 2024.07</td>
+    <td class="tg-0lax">대학생 연합 IT 벤처 창업 연합 SOPT 32th Web Frontend</td>
+  </tr>
+ <tr>
+    <td class="tg-0lax">GDSC Core</td>
+    <td class="tg-0lax">2024.08 ~ </td>
+    <td class="tg-0lax">Google Developer Student Clubs Core Member</td>
+  </tr>
+</tbody>
+</table>
+    </div>
+    <br/>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Projects </h2> 
+    <div style="margin: 0 auto; text-align: center;" align= "center">
+          </div>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-c3ow">기간</th>
+    <th class="tg-c3ow">내용</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">2022.03 ~ 2022.12</td>
+    <td class="tg-c3ow">제20회 임베디드 소프트웨어 경진대회 지능형 휴머노이드 부문 <span style="font-weight:bold">HUE </span>모션 개발</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">2022.05 ~ 2022.08</td>
+    <td class="tg-0pky">영상 인식 기반 젓가락 교정 애플리케이션 <span style="font-weight:bold">첫가락 </span>영상 인식 개발 및 FE 리팩토링</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2023.06 ~ 2023.11</td>
+    <td class="tg-nrix">오픈소스 매니지먼트 플랫폼 <span style="font-weight:bold">Open-Set-GO</span> FE 개발</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">2024.05 ~ 2023.05</td>
+    <td class="tg-0lax">성향 퀴즈 문답을 통해 상대방을 알아가는 서비스 <span style="font-weight:bold">ToZero</span> FE 개발</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2024.06 ~ 2024.07</td>
+    <td class="tg-0lax">간편하게 소규모 공연을 등록하고 관리할 수 있는 티켓 예매 플랫폼 <span style="font-weight:bold">BEAT</span> FE 개발</td>
+  </tr>
+</tbody>
+</table>
+    </div>
+    <br/>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Tech Stacks </h2> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
@@ -14,16 +93,16 @@
           </div>
     </div>
     <br/>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤔 Interested In </h2> <br> 
+<!--     <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤔 Interested In </h2> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
           <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
           <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
           </div>
     </div>
-    <br/>
+    <br/> -->
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tools </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tools </h2> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
@@ -33,7 +112,7 @@
     </div>
     <br/>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> 
     <div align= "center"> <a href=https://velog.io/@dawnww/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@dawnww/posts"> </a>
          <a href=https://www.instagram.com/d_awnww> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/d_awnww"> </a>
           </div>  <br> 
