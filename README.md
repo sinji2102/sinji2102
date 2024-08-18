@@ -70,7 +70,7 @@
   </tr>
   <tr>
     <td class="tg-baqh">2024.05 ~ 2024.05</td>
-    <td class="tg-0lax">성향 퀴즈 문답을 통해 상대방을 알아가는 서비스 <a href="https://github.com/SOPT-Hackathon-Web4/sopkathon-client">ToZero</a>' FE 개발</td>
+    <td class="tg-0lax">성향 퀴즈 문답을 통해 상대방을 알아가는 서비스 '<a href="https://github.com/SOPT-Hackathon-Web4/sopkathon-client">ToZero</a>' FE 개발</td>
   </tr>
   <tr>
     <td class="tg-0lax">2024.06 ~ 2024.07</td>
