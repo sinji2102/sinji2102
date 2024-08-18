@@ -35,7 +35,7 @@
   <tr>
     <td class="tg-0lax">NOW SOPT 34th</td>
     <td class="tg-0lax">2024.03 ~ 2024.07</td>
-    <td class="tg-0lax">대학생 연합 IT 벤처 창업 동아리 SOPT 32th Web Frontend</td>
+    <td class="tg-0lax">대학생 연합 IT 벤처 창업 동아리 SOPT 34th Web Frontend</td>
   </tr>
  <tr>
     <td class="tg-0lax">GDSC Core</td>
