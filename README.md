@@ -44,12 +44,12 @@
   </tr>
 </tbody>
 </table>
-    </div>
-    <br/>
+</div>
+<br/>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Projects </h2> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
-          </div>
+</div>
 <table class="tg"><thead>
   <tr>
     <th class="tg-c3ow">기간</th>
@@ -58,23 +58,23 @@
 <tbody>
   <tr>
     <td class="tg-c3ow">2022.03 ~ 2022.12</td>
-    <td class="tg-c3ow">제20회 임베디드 소프트웨어 경진대회 지능형 휴머노이드 부문 <span style="font-weight:bold">HUE </span>모션 개발</td>
+    <td class="tg-c3ow">제20회 임베디드 소프트웨어 경진대회 지능형 휴머노이드 부문 '<a href="https://github.com/2022HUE/2022ESWContest_robot_2005">HUE</a>' 모션 개발</td>
   </tr>
   <tr>
     <td class="tg-c3ow">2022.05 ~ 2022.08</td>
-    <td class="tg-0pky">영상 인식 기반 젓가락 교정 애플리케이션 <span style="font-weight:bold">첫가락 </span>영상 인식 개발 및 FE 리팩토링</td>
+    <td class="tg-0pky">영상 인식 기반 젓가락 교정 애플리케이션 '<a href="https://github.com/2022HUE/Firstick-APP">첫가락</a>' 영상 인식 개발 및 FE 리팩토링</td>
   </tr>
   <tr>
     <td class="tg-0pky">2023.06 ~ 2023.11</td>
-    <td class="tg-nrix">오픈소스 매니지먼트 플랫폼 <span style="font-weight:bold">Open-Set-GO</span> FE 개발</td>
+    <td class="tg-nrix">오픈소스 매니지먼트 플랫폼 '<a href="https://github.com/AgainIoT/Open-Set-Go">Open-Set-GO</a>' FE 개발</td>
   </tr>
   <tr>
     <td class="tg-baqh">2024.05 ~ 2024.05</td>
-    <td class="tg-0lax">성향 퀴즈 문답을 통해 상대방을 알아가는 서비스 <span style="font-weight:bold">ToZero</span> FE 개발</td>
+    <td class="tg-0lax">성향 퀴즈 문답을 통해 상대방을 알아가는 서비스 <a href="https://github.com/SOPT-Hackathon-Web4/sopkathon-client">ToZero</a>' FE 개발</td>
   </tr>
   <tr>
     <td class="tg-0lax">2024.06 ~ 2024.07</td>
-    <td class="tg-0lax">간편하게 소규모 공연을 등록하고 관리할 수 있는 티켓 예매 플랫폼 <span style="font-weight:bold">BEAT</span> FE 개발</td>
+    <td class="tg-0lax">간편하게 소규모 공연을 등록하고 관리할 수 있는 티켓 예매 플랫폼 '<a href="https://github.com/TEAM-BEAT/BEAT-Client">BEAT</a> FE 개발</td>
   </tr>
 </tbody>
 </table>
