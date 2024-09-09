@@ -88,8 +88,9 @@
      <br/>
 <d>🏅 한국소프트웨어종합학술대회(KSC2023) 최우수논문상-한국정보과학 회장상</d>
 
-<d>🥈 2024 SOPT 34기 웹/어플리케이션 장기해커톤 AppJam 우수상</d>    
-<d></d>
+<d>🥈 2024 SOPT 34기 웹/어플리케이션 장기해커톤 AppJam 우수상</d>     <br/>
+<d>🥉 2024 WINK X The Compass 해커톤 장려상</d>
+<br/>
 <br/>
 <div align= "center">
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Tech Stacks </h2> 
