@@ -76,6 +76,10 @@
     <td class="tg-0lax">2024.06 ~ 2024.07</td>
     <td class="tg-0lax">간편하게 소규모 공연을 등록하고 관리할 수 있는 티켓 예매 플랫폼 '<a href="https://github.com/TEAM-BEAT/BEAT-Client">BEAT</a>' FE 개발</td>
   </tr>
+  <tr>
+    <td class="tg-0lax">2024.09 ~ 2024.09</td>
+    <td class="tg-0lax">둥글게 보는 인생 로드맵, '<a href="https://github.com/2024-WINK-HACKATHON-TEAM2/WINK-HACKATHON-TEAM2-Client">LIFE-CIRCLE</a>' FE 개발</td>
+  </tr>
 </tbody>
 </table>
     </div>
