@@ -38,9 +38,9 @@
     <td class="tg-0lax">대학생 연합 IT 벤처 창업 동아리 SOPT 34th Web Frontend</td>
   </tr>
  <tr>
-    <td class="tg-0lax">GDSC Core</td>
+    <td class="tg-0lax">GDG KMU Core</td>
     <td class="tg-0lax">2024.08 ~ </td>
-    <td class="tg-0lax">Google Developer Student Clubs Core Member</td>
+    <td class="tg-0lax">Google Developer Groups KMU Core Member</td>
   </tr>
 </tbody>
 </table>
