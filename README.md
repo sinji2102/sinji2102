@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">KOSS</td>
-    <td class="tg-0pky">2022.03 ~</td>
+    <td class="tg-0pky">2022.03 ~ 2024.12</td>
     <td class="tg-0pky">오픈소스 소프트웨어 학회 KOSS 운영진 및 홍보부장</td>
   </tr>
   <tr>
@@ -41,6 +41,21 @@
     <td class="tg-0lax">GDG KMU Core</td>
     <td class="tg-0lax">2024.08 ~ </td>
     <td class="tg-0lax">Google Developer Groups KMU Core Member</td>
+  </tr>
+<tr>
+    <td class="tg-0lax">아카이브 (ARCHIVE)</td>
+    <td class="tg-0lax">2024.12 ~ </td>
+    <td class="tg-0lax">국민대학교 소프트웨어융합대학 제9대 학생회 홍보부장</td>
+  </tr>
+<tr>
+    <td class="tg-0lax">WINK</td>
+    <td class="tg-0lax">2024.09 ~ </td>
+    <td class="tg-0lax">국민대학교 소프트웨어융합대학 소속 웹 학술 동아리 부원</td>
+  </tr>
+<tr>
+    <td class="tg-0lax">WINK</td>
+    <td class="tg-0lax">2025.01 ~ </td>
+    <td class="tg-0lax">국민대학교 소프트웨어융합대학 소속 웹 학술 동아리 홍보차장</td>
   </tr>
 </tbody>
 </table>
