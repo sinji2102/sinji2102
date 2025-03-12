@@ -43,19 +43,24 @@
     <td class="tg-0lax">Google Developer Groups KMU Core Member</td>
   </tr>
 <tr>
+    <td class="tg-0lax">WINK</td>
+    <td class="tg-0lax">2024.09 ~ </td>
+    <td class="tg-0lax">국민대학교 웹 학술 동아리 부원</td>
+  </tr>
+<tr>
     <td class="tg-0lax">아카이브 (ARCHIVE)</td>
     <td class="tg-0lax">2024.12 ~ </td>
     <td class="tg-0lax">국민대학교 소프트웨어융합대학 제9대 학생회 홍보부장</td>
   </tr>
 <tr>
     <td class="tg-0lax">WINK</td>
-    <td class="tg-0lax">2024.09 ~ </td>
-    <td class="tg-0lax">웹 학술 동아리 부원</td>
+    <td class="tg-0lax">2025.01 ~ </td>
+    <td class="tg-0lax">국민대학교 웹 학술 동아리 홍보차장</td>
   </tr>
 <tr>
-    <td class="tg-0lax">WINK</td>
-    <td class="tg-0lax">2025.01 ~ </td>
-    <td class="tg-0lax">웹 학술 동아리 홍보차장</td>
+    <td class="tg-0lax">구름톤 유니브</td>
+    <td class="tg-0lax">2025.03 ~ </td>
+    <td class="tg-0lax">구름톤 유니브 4기 국민대학교 대표</td>
   </tr>
 </tbody>
 </table>
