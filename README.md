@@ -100,6 +100,10 @@
     <td class="tg-0lax">2024.09 ~ 2024.09</td>
     <td class="tg-0lax">둥글게 보는 인생 로드맵, '<a href="https://github.com/2024-WINK-HACKATHON-TEAM2/WINK-HACKATHON-TEAM2-Client">LIFE-CIRCLE</a>' FE 개발</td>
   </tr>
+  <tr>
+    <td class="tg-0lax">2024.12 ~ </td>
+    <td class="tg-0lax">국민대학교 소프트웨어융합대학 복지물품 대여 서비, '<a href="https://github.com/billilge/frontend">빌릴게</a>' FE 개발</td>
+  </tr>
 </tbody>
 </table>
     </div>
@@ -156,8 +160,9 @@
 <div align= "center"> <a href=https://velog.io/@dawnww/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@dawnww/posts"> </a>
      <a href=https://www.instagram.com/d_awnww> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/d_awnww"> </a>
       </div>  <br> 
-<div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsinji2102%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-   </div> 
+    <!-- 현재 서비스 안 됨 - 나중에 제거하거나 서비스 복구되면 살리기 -->
+<!-- <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsinji2102%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+   </div> --> 
 </div>
 <br/>
 <div align= "center"> 
