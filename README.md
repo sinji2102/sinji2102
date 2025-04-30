@@ -62,6 +62,11 @@
     <td class="tg-0lax">2025.03 ~ </td>
     <td class="tg-0lax">구름톤 유니브 4기 국민대학교 대표</td>
   </tr>
+<tr>
+    <td class="tg-0lax">Mash-Up 15th</td>
+    <td class="tg-0lax">2025.03 ~ </td>
+    <td class="tg-0lax">연합 IT 동아리 Mash-Up Web Team 15기</td>
+  </tr>
 </tbody>
 </table>
 </div>
