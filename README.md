@@ -58,6 +58,12 @@
     <td class="tg-0lax">국민대학교 웹 학술 동아리 홍보차장</td>
   </tr>
 <tr>
+<tr>
+    <td class="tg-0lax">코더랜드</td>
+    <td class="tg-0lax">2024.11 ~ 2025.06</td>
+    <td class="tg-0lax">코더랜드 1:1 코딩 튜터 (Scratch, C++, python)</td>
+  </tr>
+<tr>
     <td class="tg-0lax">구름톤 유니브</td>
     <td class="tg-0lax">2025.03 ~ </td>
     <td class="tg-0lax">구름톤 유니브 4기 국민대학교 대표</td>
