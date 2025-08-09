@@ -113,6 +113,10 @@
     <td class="tg-0lax">2025.01 ~ </td>
     <td class="tg-0lax">사회 초년생을 위한 글쓰기 도움 AI 서비스, '<a href="https://github.com/2025-1-alpha/fe_geulowup">Geulow-Up</a>' FE 개발</td>
   </tr>
+   <tr>
+    <td class="tg-0lax">2025.04 ~ </td>
+    <td class="tg-0lax">느리지만 진심을 담아 보내는 편지, '<a href="https://github.com/mash-up-kr/WonyoungShip-Web">둥둥</a>' FE 개발</td>
+  </tr>
 </tbody>
 </table>
     </div>
