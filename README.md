@@ -113,6 +113,42 @@
     <td class="tg-0lax">2025.01 ~ </td>
     <td class="tg-0lax">사회 초년생을 위한 글쓰기 도움 AI 서비스, '<a href="https://github.com/2025-1-alpha/fe_geulowup">Geulow-Up</a>' FE 개발</td>
   </tr>
+    <tr>
+    <td class="tg-0lax">2025.04 ~ </td>
+    <td class="tg-0lax">느리지만, 진심을 담아 보내는 편지, '<a href="https://github.com/2025-1-alpha/fe_geulowup">둥둥   <td class="tg-c3ow">제20회 임베디드 소프트웨어 경진대회 지능형 휴머노이드 부문 '<a href="https://github.com/2022HUE/2022ESWContest_robot_2005">HUE</a>' 모션 개발</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">2022.05 ~ 2022.08</td>
+    <td class="tg-0pky">영상 인식 기반 젓가락 교정 애플리케이션 '<a href="https://github.com/2022HUE/Firstick-APP">첫가락</a>' 영상 인식 개발 및 FE 리팩토링</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2023.06 ~ 2023.11</td>
+    <td class="tg-nrix">오픈소스 매니지먼트 플랫폼 '<a href="https://github.com/AgainIoT/Open-Set-Go">Open-Set-GO</a>' FE 개발</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">2024.05 ~ 2024.05</td>
+    <td class="tg-0lax">성향 퀴즈 문답을 통해 상대방을 알아가는 서비스 '<a href="https://github.com/SOPT-Hackathon-Web4/sopkathon-client">ToZero</a>' FE 개발</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2024.06 ~ </td>
+    <td class="tg-0lax">간편하게 소규모 공연을 등록하고 관리할 수 있는 티켓 예매 플랫폼 '<a href="https://github.com/TEAM-BEAT/BEAT-Client">BEAT</a>' FE 개발</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2024.09 ~ 2024.09</td>
+    <td class="tg-0lax">둥글게 보는 인생 로드맵, '<a href="https://github.com/2024-WINK-HACKATHON-TEAM2/WINK-HACKATHON-TEAM2-Client">LIFE-CIRCLE</a>' FE 개발</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2024.12 ~ </td>
+    <td class="tg-0lax">국민대학교 소프트웨어융합대학 복지물품 대여 서비스, '<a href="https://github.com/billilge/frontend">빌릴게</a>' FE 개발</td>
+  </tr>
+ <tr>
+    <td class="tg-0lax">2025.01 ~ </td>
+    <td class="tg-0lax">사회 초년생을 위한 글쓰기 도움 AI 서비스, '<a href="https://github.com/2025-1-alpha/fe_geulowup">Geulow-Up</a>' FE 개발</td>
+  </tr>
+    <tr>
+    <td class="tg-0lax">2025.04 ~ </td>
+    <td class="tg-0lax">느리지만, 진심을 담아 보내는 편지, '<a href="https://github.com/mash-up-kr/WonyoungShip-Web">둥둥</a>' FE 개발</td>
+  </tr>
 </tbody>
 </table>
     </div>
