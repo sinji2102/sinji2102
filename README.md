@@ -106,11 +106,11 @@
     <td class="tg-0lax">둥글게 보는 인생 로드맵, '<a href="https://github.com/2024-WINK-HACKATHON-TEAM2/WINK-HACKATHON-TEAM2-Client">LIFE-CIRCLE</a>' FE 개발</td>
   </tr>
   <tr>
-    <td class="tg-0lax">2024.12 ~ </td>
+    <td class="tg-0lax">2024.12 ~ 2025.04 </td>
     <td class="tg-0lax">국민대학교 소프트웨어융합대학 복지물품 대여 서비스, '<a href="https://github.com/billilge/frontend">빌릴게</a>' FE 개발</td>
   </tr>
  <tr>
-    <td class="tg-0lax">2025.01 ~ </td>
+    <td class="tg-0lax">2025.01 ~ 2025.06 </td>
     <td class="tg-0lax">사회 초년생을 위한 글쓰기 도움 AI 서비스, '<a href="https://github.com/2025-1-alpha/fe_geulowup">Geulow-Up</a>' FE 개발</td>
   </tr>
    <tr>
