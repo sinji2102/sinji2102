@@ -49,7 +49,7 @@
   </tr>
 <tr>
     <td class="tg-0lax">아카이브 (ARCHIVE)</td>
-    <td class="tg-0lax">2024.12 ~ </td>
+    <td class="tg-0lax">2024.12 ~ 2025.11</td>
     <td class="tg-0lax">국민대학교 소프트웨어융합대학 제9대 학생회 홍보부장</td>
   </tr>
 <tr>
@@ -59,12 +59,12 @@
   </tr>
 <tr>
     <td class="tg-0lax">구름톤 유니브</td>
-    <td class="tg-0lax">2025.03 ~ </td>
+    <td class="tg-0lax">2025.03 ~ 2025.10</td>
     <td class="tg-0lax">구름톤 유니브 4기 국민대학교 대표</td>
   </tr>
 <tr>
     <td class="tg-0lax">Mash-Up 15th</td>
-    <td class="tg-0lax">2025.03 ~ </td>
+    <td class="tg-0lax">2025.03 ~ 2025.08 </td>
     <td class="tg-0lax">연합 IT 동아리 Mash-Up Web Team 15기</td>
   </tr>
 </tbody>
@@ -98,7 +98,7 @@
     <td class="tg-0lax">성향 퀴즈 문답을 통해 상대방을 알아가는 서비스 '<a href="https://github.com/SOPT-Hackathon-Web4/sopkathon-client">ToZero</a>' FE 개발</td>
   </tr>
   <tr>
-    <td class="tg-0lax">2024.06 ~ </td>
+    <td class="tg-0lax">2024.06 ~ 2025.06 </td>
     <td class="tg-0lax">간편하게 소규모 공연을 등록하고 관리할 수 있는 티켓 예매 플랫폼 '<a href="https://github.com/TEAM-BEAT/BEAT-Client">BEAT</a>' FE 개발</td>
   </tr>
   <tr>
@@ -179,9 +179,8 @@
 <div align= "center"> <a href=https://velog.io/@dawnww/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@dawnww/posts"> </a>
      <a href=https://www.instagram.com/d_awnww> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/d_awnww"> </a>
       </div>  <br> 
-<!--     현재 서비스 안 됨 - 나중에 제거하거나 서비스 복구되면 살리기 -->
-<!-- <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsinji2102%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-   </div>  -->
+ <div align= "center"> <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.apphttps%3A%2F%2Fgithub.com%2Fsinji2102%2Fsinji2102%2F?color=yellow&label=hits&size=small" alt="hits" /></a>
+   </div> 
 </div>
 <br/>
 <div align= "center"> 
