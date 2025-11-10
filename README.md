@@ -179,7 +179,8 @@
 <div align= "center"> <a href=https://velog.io/@dawnww/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@dawnww/posts"> </a>
      <a href=https://www.instagram.com/d_awnww> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/d_awnww"> </a>
       </div>  <br> 
- <div align= "center"> <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.apphttps%3A%2F%2Fgithub.com%2Fsinji2102%2Fsinji2102%2F?color=yellow&label=hits&size=small" alt="hits" /></a>
+ <div align= "center">
+     <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fsinji2102?color=yellow&label=hits&size=small" alt="hits" /></a>
    </div> 
 </div>
 <br/>
