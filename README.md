@@ -165,14 +165,6 @@
       </div>
 </div>
 <br/>
-<!--     <div align= "center">
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤔 Interested In </h2> 
-<div style="margin: 0 auto; text-align: center;" align= "center">
-      <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-      </div>
-</div>
-<br/> -->
 <div align= "center">
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tools </h2> 
 <div style="margin: 0 auto; text-align: center;" align= "center">
