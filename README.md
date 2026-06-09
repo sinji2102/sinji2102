@@ -123,8 +123,12 @@
     <td class="tg-0lax">느리지만 진심을 담아 보내는 편지, '<a href="https://github.com/mash-up-kr/WonyoungShip-Web">둥둥</a>' FE 개발</td>
   </tr>
     <tr>
-    <td class="tg-0lax">2025.04 ~ 2025.07 </td>
+    <td class="tg-0lax">2025.07 ~ 2025.11 </td>
     <td class="tg-0lax">나의 피부를 이해하고 나만의 스타일을 완성하는 AI 서비스, '<a href="https://github.com/D-X-W-Beautiq/beautiq-frontend">Beautiq</a>' FE 개발 리드</td>
+  </tr>
+<tr>
+    <td class="tg-0lax">2025.12 ~  </td>
+    <td class="tg-0lax">기획 아이디어 버전관리 도구, '<a href="https://github.com/kookmin-sw/2026-capstone-09">flowMeet</a>' FE 개발</td>
   </tr>
 </tbody>
 </table>
@@ -134,11 +138,10 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎖️ Awards/Certificates </h2> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
     </div>
-<d>🥈 제20회 임베디드 소프트웨어 경진대회 지능형 휴머노이드 부문 우수상</d>
-     <br/>
-<d>🏅 한국소프트웨어종합학술대회(KSC2023) 최우수논문상-한국정보과학 회장상</d>
-
-<d>🥈 2024 SOPT 34기 웹/어플리케이션 장기해커톤 AppJam 우수상</d>     <br/>
+<d>🏅 한국소프트웨어종합학술대회(KSC2023) 최우수논문상-한국정보과학 회장상</d><br/>     
+<d>🥈 소프트웨어학부 다학제간캡스톤디자인 2026 KMU EXPO 은상</d><br/>
+<d>🥈 제20회 임베디드 소프트웨어 경진대회 지능형 휴머노이드 부문 우수상</d><br/>
+<d>🥈 2024 SOPT 34기 웹/어플리케이션 장기해커톤 AppJam 최우수상</d>     <br/>
 <d>🥉 2024 WINK X The Compass 해커톤 장려상</d>
 <br/>
 <br/>
