@@ -69,7 +69,7 @@
   </tr>
 <tr>
     <td class="tg-0lax">Mash-Up 16th</td>
-    <td class="tg-0lax">2025.03 ~ 2025.08 </td>
+    <td class="tg-0lax">2025.11 ~  </td>
     <td class="tg-0lax">연합 IT 동아리 Mash-Up 16기 웹팀장</td>
   </tr>
 </tbody>
